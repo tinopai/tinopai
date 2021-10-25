@@ -1,11 +1,34 @@
-### Hello GitHub! 👋
-This is [my profile](https://github.com/tinopai), I'm a **TypeScript**, **Java** and **Golang** developer that knows a bit of **C++** and **PHP**.\
-I mainly like doing APIs, but can also code discord bots, applications and more!
+<h1 align="center">tinopai</h1>
+<p align="center">backend dev & app dev (NO C++!!!!)</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="48" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="48" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" />
+</p>
 
-- ⚡ I'm currently learning **Python**, (even tho I hate its syntax) because I like Machine Learning
-- 🔭 i hate c++
 
-[![tinopai's github stats](https://github-readme-stats.vercel.app/api?username=tinopai&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinopai&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinopai&theme=radical&count_private=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinopai&theme=radical&layout=compact" />
+</p>
 
-WakaTime: https://wakatime.com/@tinopai
+<p align="center">
+  <img src="https://i.imgur.com/x2zGVr0.png" height="48" />
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f449.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="48" />
+</p>
