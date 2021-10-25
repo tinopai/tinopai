@@ -21,8 +21,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tinopai&theme=radical&count_private=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinopai&theme=radical&layout=compact" />
 </p>
 
 <p align="center">
