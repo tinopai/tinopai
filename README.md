@@ -1,5 +1,6 @@
 <h1 align="center">tinopai</h1>
 <p align="center">backend dev & app dev (NO C++!!!!)</p>
+<a href="mailto:tino@auth.party" align="center">hire me</a>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="48" />
