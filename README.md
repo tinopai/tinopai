@@ -1,6 +1,5 @@
 <h1 align="center">Valentino Berta</h1>
 <p align="center">backend & application developer - linux sysadmin
-<br><a href="mailto:tino@berta.uy" align="center">contact me</a> at tino@berta.uy</p>
 
 ```diff
 + what do i work with
